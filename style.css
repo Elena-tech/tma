@@ -1,0 +1,72 @@
+body{
+  background: rgb(245,245,245);
+  color: #560d0d;
+  font-size: 25px;
+  font-family: 'Monsieur La Doulaise';
+}
+h1{
+  font-family: 'Coming Soon', cursive;
+  color: #9852f9;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: 'Kavivanar', cursive;
+  color: #000;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h6 {
+  font-family: 'Kavivanar', cursive;
+  color: #000;
+  font-weight: lighter;
+  font-size: 20px;
+
+}
+a {
+  color: #8f4426;
+  font-size: 15px;
+}
+a:hover {
+  text-decoration: none;
+  color: #8f4426;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("https://picsum.photos/id/1060/5598/3732");
+  background-size: cover;
+  padding: 50px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  font-family: 'Cinzel', serif;
+  font-weight: lighter;
+  text-align: center;
+}
+
+#intro{
+  font-family: 'Cinzel', serif;
+  font-weight: lighter;
+  text-align: center;
+  padding-top: 35px;
+}
+
+
+
